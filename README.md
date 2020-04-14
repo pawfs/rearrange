@@ -1,2 +1,3 @@
-# rearrange
-new rearrange repo for training
+Rearrange
+=========
+This module is used for rearranging names.
